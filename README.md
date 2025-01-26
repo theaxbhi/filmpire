@@ -1,9 +1,8 @@
-<h3 align="center">A Movie Application</h3>
-## <a name="introduction">Introduction</a>
+<h3 align="center">A Movie Application</h3>## <a name="tech-stack">Tech Stack</a>
 
 Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, and styled with TailwindCSS.
 
-## <a name="tech-stack">Tech Stack</a>
+## <a name="Introduction">Introduction</a>
 
 - React.js
 - Appwrite
